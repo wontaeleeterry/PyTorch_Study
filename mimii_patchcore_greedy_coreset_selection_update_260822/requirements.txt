@@ -1,0 +1,28 @@
+numpy
+scipy
+pandas
+librosa
+soundfile
+scikit-learn
+tqdm
+torch
+torchvision
+torchaudio
+faiss-cpu
+
+
+
+Python       3.11
+│
+├── PyTorch       2.5.1
+├── torchvision   0.20.1
+├── torchaudio    2.5.1
+│
+├── NumPy         1.26.4
+│
+├── FAISS-CPU     1.8.0
+│
+├── librosa       0.10.2
+├── scipy         1.13.1
+├── scikit-learn  1.5.1
+└── pandas        2.2.2
