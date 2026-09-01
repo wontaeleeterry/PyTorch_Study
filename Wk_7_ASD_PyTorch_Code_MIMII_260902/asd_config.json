@@ -1,0 +1,8 @@
+{
+  "sample_rate": 16000,
+  "duration_sec": 10.0,
+  "num_samples": 160000,
+  "n_subclusters": 16,
+  "seed": 0,
+  "data_root": "./data/MIMII"
+}
